@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EasyBank accounts related local PROD APIs"
   contactDetails:
     name: "Adam DevOps - DevOps lead"
-    email: "adam.devops@eazybank.com"
+    email: "{cipher}cbe0ead46c8fee5d6e52045e9e7e3003cebf898c4397288c459b85dca77c5992780550875ef49c504887e03ca9ff6be4"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
