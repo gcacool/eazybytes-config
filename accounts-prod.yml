@@ -3,7 +3,7 @@ build:
   version: "1.19"
 
 accounts:
-  message: "Welcome to EasyBank accounts related local PRODUCTION-LIVE APIs"
+  message: "Welcome to EasyBank accounts related local PRODUCTION/LIVE APIs"
   contactDetails:
     name: "Adam DevOps - DevOps lead"
     email: "{cipher}cbe0ead46c8fee5d6e52045e9e7e3003cebf898c4397288c459b85dca77c5992780550875ef49c504887e03ca9ff6be4"
