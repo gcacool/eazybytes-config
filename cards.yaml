@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related dockertest2 APIs "
+  message: "Welcome to EazyBank cards related dockertest3 APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
   onCallSupport:
-    - (410) 419-3491
+    - (413) 419-3491
     - (915) 382-1932
