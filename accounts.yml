@@ -2,7 +2,7 @@ build:
   version: "1.3"
 
 accounts:
-  message: "Welcome to EasyBank accounts related local APIs"
+  message: "Welcome to EasyBank accounts related docker APIs"
   contactDetails:
     name: "Adam Done - Developer"
     email: "adam.done@eazybank.com"
