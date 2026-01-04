@@ -3,10 +3,10 @@ build:
 
 
 accounts:
-  message: "Welcome to EasyBank accounts related local QA APIs"
+  message: "Welcome to EasyBank accounts related dockertest1 QA APIs"
   contactDetails:
     name: "Adam QA - QA lead"
     email: "adam.qa@eazybank.com"
   onCallSupport:
-    - (123)666-7777
+    - (121)666-7777
     - (123)888-9999
